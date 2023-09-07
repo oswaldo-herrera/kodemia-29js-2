@@ -1,0 +1,1 @@
+#kodemia 29 js segunda parte
